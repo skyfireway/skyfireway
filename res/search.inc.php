@@ -17,7 +17,8 @@ $imSettings['search']['general'] = array(
 		'10' => 'page-10.html',
 		'11' => '--------wildbeautycoon-s-symon.html',
 		'12' => '--------bluemistwild-s-lovely.html',
-		'13' => '--------onuks-dragon-f.-birken-forstadt.html'
+		'13' => '--------onuks-dragon-f.-birken-forstadt.html',
+		'14' => '--------angel-sky-from-tassel-magic.html'
 	),
 	'extendedScope' => array(
 	)
